@@ -209,4 +209,4 @@ So you can access the k8s resources on dashboard as ,
 
 ![](https://miro.medium.com/v2/resize:fit:736/1*yImdvieZ0FCD7KA4g4N6tA.png)
 
-### If you like this article, please share with others. ❤️
+###  Regards DevOps Institute Mumbai
